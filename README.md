@@ -1,6 +1,10 @@
+[[MasterHead](https://github.com/Borse-Shubham/Borse-Shubham/assets/145191418/8a051a84-b514-4699-880d-7e6f7d4d9634)]
+
+
+<img align="right" alt="Coding" width="400" src="https://github.com/Borse-Shubham/Borse-Shubham/assets/145191418/8a051a84-b514-4699-880d-7e6f7d4d9634">
+https://github.com/Borse-Shubham/Borse-Shubham/assets/145191418/8a051a84-b514-4699-880d-7e6f7d4d9634
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">Pursuing Computer Engineering...</h3>
-
 
 
 - 🌱 I’m currently learning **MEAN Stack**
