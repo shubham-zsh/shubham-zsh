@@ -1,14 +1,15 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borse-shubham&label=Profile%20views&color=0e75b6&style=flat" alt="borse-shubham" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Shubham Borse,</h1>
-<h3 align="center">Pursuing Computer Engineering...</h3>
+<h1 align="center">Hi, I'm Shubham Borse,</h1>
+<h3 align="center">Studying Computer Engineering...</h3>
 
 
-- 🌱 I’m currently learning **MEAN Stack**
+-  I’m currently learning **MEAN Stack**
 
-- 💬 Ask me about **Programming Languages - C , C++, Java, Python**
+-  Ask me about **Programming Languages - C , C++, Java, Python**
 
-- 📫 How to reach me **Shubhamborse0911@gmail.com**
+-  How to reach me **Shubhamborse0911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +26,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Borse-Shubham&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Borse-Shubham&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Borse-Shubham&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
