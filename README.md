@@ -9,7 +9,7 @@
 
 -  Ask me about **Programming Languages - C , C++, Java, Python**
 
--  How to reach me **Shubhamborse0911@gmail.com**
+-  Reach me at **Shubhamborse0911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
