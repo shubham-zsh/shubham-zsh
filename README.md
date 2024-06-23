@@ -1,121 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name]'s Profile</title>
-    <style>
-        /* Overall Styling */
-        body {
-            font-family: sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f2f5; /* Light Gray */
-            color: #343a40; /* Dark Gray */
-        }
+# 💫 About Me:
+MEARN and DevOps<br>
 
-        /* Header Section */
-        header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 20px;
-            background-color: #e6eff2; /* Lighter Gray */
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle Shadow */
-        }
 
-        h1 {
-            font-size: 24px;
-            margin: 0;
-        }
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord app.com.users/853213722843501662) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shubham_20.03) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shubhamb_911) 
 
-        /* About Me Section */
-        .about-me {
-            padding: 20px;
-            background-color: #fff; /* White */
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
-        }
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BSs911&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BSs911&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BSs911&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-        .about-me h2 {
-            font-size: 20px;
-            margin-bottom: 10px;
-        }
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BSs911&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
-        .about-me p {
-            line-height: 1.5;
-        }
+---
+[![](https://visitcount.itsvg.in/api?id=BSs911&icon=3&color=0)](https://visitcount.itsvg.in)
 
-        /* Technologies Section */
-        .technologies {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-around;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
-        }
-
-        .tech-icon {
-            width: 80px;
-            height: 80px;
-            margin: 10px;
-            text-align: center;
-            border-radius: 50%;
-            background-color: #e6eff2;
-            color: #343a40;
-        }
-
-        .tech-icon img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover; /* Maintain aspect ratio */
-        }
-
-        .tech-icon h3 {
-            margin-top: 5px;
-            font-size: 16px;
-        }
-
-        /* Contributions Section */
-        .contributions {
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
-        }
-
-        .contributions h2 {
-            font-size: 20px;
-            margin-bottom: 10px;
-        }
-
-        .contributions p {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>[Your Name]'s Profile</h1>
-        <a href="mailto:[Your Email]">[Your Email]</a>
-    </header>
-
-    <section class="about-me">
-        <h2>About Me</h2>
-        <p>[Write a brief description about yourself, your interests, and your career goals here.]</p>
-        <p>**Current Status:** [Are you a student, working professional, freelancer, etc.? Mention it here]</p>
-    </section>
-
-    <section class="technologies">
-        <h2>Technologies</h2>
-        <div class="tech-icon">
-            <img src="[Image URL of Tech 1]" alt="Tech 1 Logo">
-            <h3>Tech 1</h3>
-        </div>
-        <div class="tech-icon">
-            <img src="[Image URL
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
