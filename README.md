@@ -3,11 +3,7 @@
 <h1 align="center">Hi, I'm Shubham Borse</h1>
 <h3 align="center">3rd Year CS Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bss911&label=Profile%20views&color=0e75b6&style=flat" alt="bss911" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bss911" alt="bss911" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shubham_911" target="blank"><img src="https://img.shields.io/twitter/follow/shubham_911?logo=twitter&style=for-the-badge" alt="shubham_911" /></a> </p>
 
 - 🔭 I’m currently working on **Devops & MERN stack**
 
