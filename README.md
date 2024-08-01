@@ -74,7 +74,7 @@ Data Science and Machine Learning
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shubham-zsh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BSs911&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BSs911&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-zsh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shubham-zsh&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
