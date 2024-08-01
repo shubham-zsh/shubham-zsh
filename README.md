@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=BSs911&icon=3&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shubham-zsh&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi, I'm Shubham Borse</h1>
 <h3 align="center">3rd Year CS Student</h3>
@@ -72,12 +72,12 @@ Data Science and Machine Learning
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BSs911&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shubham-zsh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BSs911&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BSs911&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BSs911&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shubham-zsh&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 ---
 
