@@ -1,4 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=shubham-zsh&icon=3&color=0)](https://visitcount.itsvg.in)
+**Initial Visitor Count**: 100
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=shubham-zsh&icon=3&color=0)](https://visitcount.itsvg.in)
+
 
 <h1 align="center">Hi, I'm Shubham Borse</h1>
 <h3 align="center">3rd Year CS Student</h3>
